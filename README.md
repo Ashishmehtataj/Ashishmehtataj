@@ -23,6 +23,7 @@ Passionate about building responsive, scalable and secure web applications using
 - 🌱 Currently improving my Data Structures & Algorithms and Full Stack Development skills.
 - 📍 Mandsaur, Madhya Pradesh, India
 - 📧 ashishmehtataj6@gmail.com
+- 💼 portfolio : https://ashishmehta-uz39-six.vercel.app/
 - 💼 Open to React.js, Frontend and MERN Stack Developer roles.
 
 ---

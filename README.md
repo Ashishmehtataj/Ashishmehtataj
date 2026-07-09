@@ -146,18 +146,52 @@ Passionate about building responsive, scalable and secure web applications using
 
 # 🌐 Connect With Me
 
-<p>
+# 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/ashish-mehta-b5363a200">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<p align="left">
+
+<a href="mailto:Ashishmehtataj6@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="mailto:ashishmehtataj6@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://www.linkedin.com/in/ashish-mehta-b5363a200">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://github.com/ashishmehtataj">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/Ashishmehtataj">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.instagram.com/ashish_mehta81">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+<a href="https://www.facebook.com/share/18rXQ7Pp8F/">
+<img src="https://cdn.simpleicons.org/facebook" height="45"/>
+</a>
+
+<a href="https://wa.me/918103701398">
+<img src="https://cdn.simpleicons.org/whatsapp" height="45"/>
+</a>
+
+<a href="https://www.snapchat.com/add/ashishmehta5632">
+<img src="https://cdn.simpleicons.org/snapchat" height="45"/>
+</a>
+
+<a href="https://twitter.com/AshishMehta86">
+<img src="https://cdn.simpleicons.org/x" height="45"/>
+</a>
+
+<a href="https://vercel.com/ashishmehtataj6-8347s-projects">
+<img src="https://skillicons.dev/icons?i=vercel" height="45"/>
+</a>
+
+<a href="https://dashboard.render.com/">
+<img src="https://cdn.simpleicons.org/render" height="45"/>
+</a>
+
+<a href="https://app.netlify.com/teams/ashishmehtataj/projects">
+<img src="https://skillicons.dev/icons?i=netlify" height="45"/>
 </a>
 
 </p>

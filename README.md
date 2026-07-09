@@ -148,7 +148,7 @@ Passionate about building responsive, scalable and secure web applications using
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="left" gap='2'>
 
 <a href="mailto:Ashishmehtataj6@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>

@@ -5,28 +5,34 @@
 </h3>
 
 <p align="center">
-Passionate about building modern, responsive and scalable web applications using the MERN Stack.
+Passionate about building responsive, scalable and secure web applications using the MERN Stack.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ashishmehtataj&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 💻 MERN Stack Developer with strong expertise in **React.js**
-- 🌱 Currently learning **Advanced Java + Spring Boot**
-- 🧠 Solving Data Structures & Algorithms problems regularly
-- 🔥 Interested in Frontend Development, Backend APIs and Full Stack Development
-- 📫 Reach me at **Ashishmehtataj6@gmail.com**
-- 🌐 Portfolio: *(Add your portfolio link here)*
+- 💻 MERN Stack Developer passionate about building modern web applications.
+- ⚛️ Strong knowledge of React.js, JavaScript (ES6+), Redux Toolkit, Context API and Tailwind CSS.
+- 🚀 Experienced in building Full Stack applications using Node.js, Express.js and MongoDB.
+- 🔐 Skilled in JWT Authentication, REST APIs and CRUD Operations.
+- 🌱 Currently improving my Data Structures & Algorithms and Full Stack Development skills.
+- 📍 Mandsaur, Madhya Pradesh, India
+- 📧 ashishmehtataj6@gmail.com
+- 💼 Open to React.js, Frontend and MERN Stack Developer roles.
 
 ---
 
-## 💼 Tech Stack
+# 💻 Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind,bootstrap,vite,materialui" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind,bootstrap,materialui,vite" />
 </p>
 
 ### Backend
@@ -38,87 +44,114 @@ Passionate about building modern, responsive and scalable web applications using
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=js,c,cpp,java" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 Job Portal
+## 📚 BookNest – Full Stack MERN Bookstore
 
-React.js • Node.js • Express • MongoDB
+✅ React.js
 
-✔ JWT Authentication
+✅ Node.js
 
-✔ Role Based Access
+✅ Express.js
 
-✔ Responsive UI
+✅ MongoDB Atlas
 
-✔ REST APIs
+✅ JWT Authentication
 
----
+✅ bcrypt.js
 
-### 🔹 E-Commerce Website
+✅ Tailwind CSS
 
-React.js • Redux Toolkit • Tailwind CSS
-
-✔ Product Filtering
-
-✔ Shopping Cart
-
-✔ Authentication
-
-✔ Payment Ready
+✅ REST APIs
 
 ---
 
-### 🔹 AI Chat Application
+## 🤖 AI Voice Assistant
 
-React.js • Gemini API
+✅ React.js
 
-✔ AI Chat
+✅ Google Gemini API
 
-✔ Markdown Support
+✅ Web Speech API
 
-✔ Responsive UI
+✅ Context API
+
+✅ Voice Commands
+
+✅ Responsive UI
 
 ---
 
-## 📈 GitHub Stats
+## 🍔 Food Recipe Finder
+
+✅ React.js
+
+✅ React Router DOM
+
+✅ Axios
+
+✅ TheMealDB REST API
+
+✅ Dynamic Search
+
+✅ Responsive Design
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashishmehtataj&show_icons=true&theme=tokyonight"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmehtataj&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishmehtataj&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🤝 Connect with Me
+# 🏆 GitHub Activity
 
-<p align="left">
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishmehtataj&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
 
 <a href="https://linkedin.com/in/ashish-mehta-b5363a200">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:Ashishmehtataj6@gmail.com">
+<a href="mailto:ashishmehtataj6@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -126,12 +159,10 @@ React.js • Gemini API
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://leetcode.com/ashishmehta">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48">
-</a>
-
 </p>
 
 ---
 
-⭐ Always learning new technologies and building impactful projects.
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
